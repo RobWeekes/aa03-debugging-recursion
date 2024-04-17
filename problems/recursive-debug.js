@@ -6,6 +6,8 @@ the day!
 When fixed, this function should behave similarly to JavaScript's '.map()'
 function.
 
+// test comment
+
 Examples:
 
 doForAll([], (x) => x * 2); // => []
